@@ -21,6 +21,7 @@ int main()
 	cout << h << e << l << l << o << endl;
 
 	cout << "*****" << endl;
+	cout << "저장위치가 변경되었습니다." << endl;
 
 	return 0;
 
