@@ -20,6 +20,8 @@ int main()
 
 	cout << h << e << l << l << o << endl;
 
+	cout << "*****" << endl;
+
 	return 0;
 
 }
